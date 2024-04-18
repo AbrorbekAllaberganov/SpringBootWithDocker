@@ -34,4 +34,4 @@ You can run your Spring Boot project in a Docker container using the following c
 ```bash
 docker run -p 8080:8080 your-application-image
 ```
-In your web browser, navigate to http://localhost:8080 to check if your application is working.
+In your web browser, send get request to http://localhost:8080/docker to check if your application is working.
